@@ -2,7 +2,6 @@
 
 An interactive Rock-Paper-Scissors game where you play against an AI using just your hand gestures! Built with Python, OpenCV, and the `cvzone.HandTrackingModule`.
 
-https://user-images.githubusercontent.com/your-gif-or-video-here.gif
 
 ---
 
@@ -33,7 +32,7 @@ https://user-images.githubusercontent.com/your-gif-or-video-here.gif
 
 ### 1. Clone the Repository
 
-git clone https://github.com/ChAtulKumarPrusty/Rock-Paper-Scissors-Game.git
+git clone https://github.com/ChAtulKumarPrusty/Rock-Paper-Scissor-Game.git
 cd rock-paper-scissors-gesture
 
 2. Install Dependencies
